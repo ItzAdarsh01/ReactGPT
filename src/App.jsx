@@ -44,6 +44,7 @@ function App() {
       <div className='col-span-1 bg-zinc-800'>
       </div>
       <div className='col-span-4 p-10'>
+        <h1 className='text-white text-xl mb-4'>REACTGPT</h1>
         <div className='container h-120'>
           <div className='text-white'>
 
